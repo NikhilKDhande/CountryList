@@ -24,18 +24,19 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 Users should be able to:
 
-- View the relevant dropdown menus on desktop and mobile when interacting with the navigation links
-- View the optimal layout for the content depending on their device's screen size
-- See hover states for all interactive elements on the page
+- See all the country list
+- you can toggle between the light and the dark mode
+- You can see the country details on the next page
 
 ### Screenshot
 
-![DropDown-Navigation.png](./images/Screenshot DropDown Navigation.png)
+![Homepage.png](./src/screenshots/Homepage.png)
+![detailView.png](./src/screenshots/detailView.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [front-end-mentor-navigation-bar](https://nikhilkdhande.github.io/front-end-mentor-navigation-bar/)
+- Solution URL: [github repo](https://github.com/NikhilKDhande/CountryList.git)
+- Live Site URL: [CountryList](https://main--loquacious-crisp-ddf498.netlify.app/)
 
 ## My process
 
@@ -50,7 +51,7 @@ Users should be able to:
 
 ### What I learned
 
-I learn hot to make to different type of navigation for big and small screen whti the help of media quary.
+In this project I learn how to interact with the API calls and represent the data in the usefull way. I also learn about the react router.
 
 ### Continued development
 
